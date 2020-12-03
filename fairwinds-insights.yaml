@@ -13,4 +13,3 @@ images:
 manifests:
   yaml:
   - ./passing.yaml
-  - ./failing.yaml
