@@ -1,6 +1,7 @@
 options:
   organization: fairwinds-staging
   hostname: https://staging.insights.fairwinds.com
+  baseBranch: main
 
 # These images will be scanned for vulnerabilities.
 images:
